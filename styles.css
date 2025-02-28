@@ -691,6 +691,15 @@ header span{
     }
 }
 @media (min-width: 250px) and (max-width: 400.98px) {
+    .testimonials-slider {
+    min-width: 200px !important;
+    left: 20px;
+}#section3 .img-fluid {
+    height: 220px !important;
+}.testimonials-text {
+    min-width: 276px !important;
+    padding: 2px !important;
+}
     .text-uppercase {
         font-size: 22px;
     }
