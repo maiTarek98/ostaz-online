@@ -1320,6 +1320,9 @@ header span{
 }
 
 @media (max-width: 768px) {
+    .btn-contact {
+        display: none;
+    }
     .btn-sm-contact {
         position: fixed !important;
         bottom: 20px; /* المسافة من الأسفل */
